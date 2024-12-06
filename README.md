@@ -1,12 +1,12 @@
 # HoVer-Net(NeuLy)
 
-This repository is dedicated to the research paper [Immunohistochemistry annotations enhance AI identification of lymphocytes and neutrophils in digitized H&E slides from inflammatory bowel disease](link) (**under review**).
+This repository is dedicated to the research paper [Immunohistochemistry annotations enhance AI identification of lymphocytes and neutrophils in digitized H&E slides from inflammatory bowel disease](https://pubmed.ncbi.nlm.nih.gov/39306985/).
 
 **StarDist** folder contains the *StarDist** model described in our paper. To run the model follow instructions from [original StarDist repository](https://github.com/stardist/stardist).
 
 ## HoVer-Net(NeuLy)
 **HoVer-Net(NeuLy)** model can be downloaded [here](https://drive.google.com/file/d/1EQh7pE3YpBm2CMHwGQEIdSWrkcQbIV0r/view?usp=drive_link).
-Model available upon reasonable request. Contact: [natalia.zurek@cshs.org](mailto:natalia.zurek@cshs.org)
+Model available upon reasonable request. Contact corresponding author: [arkadiusz.gertych@cshs.org](mailto:arkadiusz.gertych@cshs.org)
 
 
 *type_info.json* file is used for visualization of segmentation and classifiction of HoVer-Net(NeuLy).
