@@ -24,3 +24,28 @@ python run_infer.py --nr_types=4 --type_info_path="path/to/type_info.json" --mod
 python run_infer.py --nr_types=4 --type_info_path="path/to/type_info.json" --model_path="path/to/HoVer-Net(NeuLy).tar" --model_mode="fast" wsi --input_dir="path/to/your/input/images" --output_dir="path/to/your/output/directory"
 ```
 
+## Citation
+
+If you use this project in your research, please cite the following paper:
+
+**Immunohistochemistry annotations enhance AI identification of lymphocytes and neutrophils in digitized H&E slides from inflammatory bowel disease**  
+*Natalia Zurek, Yi Zhang, Dermot P.B. McGovern, Ann E. Walts, Arkadiusz Gertych*  
+**Computer Methods and Programs in Biomedicine**, 2024, Vol. 257, 108423.  
+DOI: [10.1016/j.cmpb.2024.108423](https://doi.org/10.1016/j.cmpb.2024.108423)  
+PMID: 39306985  
+
+### BibTeX
+
+```bibtex
+@article{Zurek2024,
+  title={Immunohistochemistry annotations enhance AI identification of lymphocytes and neutrophils in digitized H&E slides from inflammatory bowel disease},
+  author={Zurek, Natalia and Zhang, Yi and McGovern, Dermot P.B. and Walts, Ann E. and Gertych, Arkadiusz},
+  journal={Computer Methods and Programs in Biomedicine},
+  volume={257},
+  pages={108423},
+  year={2024},
+  month={Dec},
+  doi={10.1016/j.cmpb.2024.108423},
+  url={https://doi.org/10.1016/j.cmpb.2024.108423},
+  pmid={39306985}
+}
