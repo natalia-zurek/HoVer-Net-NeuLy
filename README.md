@@ -6,7 +6,7 @@ This repository is dedicated to the research paper [Immunohistochemistry annotat
 
 ## HoVer-Net(NeuLy)
 **HoVer-Net(NeuLy)** model can be downloaded [here](https://drive.google.com/file/d/1EQh7pE3YpBm2CMHwGQEIdSWrkcQbIV0r/view?usp=drive_link).
-Model available upon reasonable request. Contact corresponding author: [arkadiusz.gertych@cshs.org](mailto:arkadiusz.gertych@cshs.org)
+Model available upon reasonable request. Contact corresponding author: [arkadiusz.gertych@cshs.edu](mailto:arkadiusz.gertych@cshs.org)
 
 
 *type_info.json* file is used for visualization of segmentation and classifiction of HoVer-Net(NeuLy).
